@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>RSS</title>
+    <description>Siste nyheter fra Nkom</description>
+    <link>http://xp-test.npta.no/admin/site/preview/default/draft/nkom/aktuelt</link>
+
+    <item>
+      <guid isPermaLink="false">4b5e01d4-c509-47e6-bdab-1f227f02d99c</guid>
+      <title>Ny politisk ledelse for Nkom</title>
+      <description>&lt;p&gt;I statsr&#xe5;d i dag ble det klart at den nyutnevnte digitaliseringsministeren, Nikolai Astrup, overtar den politiske ledelsen for Nasjonal kommunikasjonsmyndighet.&lt;/p&gt;
+</description>
+      <link>http://xp-test.npta.no/admin/site/preview/default/draft/nkom/aktuelt/ny-politisk-ledelse-for-nkom</link>
+      <pubDate>Sun, 01 Mar 2019 12:03:49 GMT</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">bf427d5d-9156-457e-8dac-cd4bbdb32a37</guid>
+      <title>Fortsatt telefonidekning selv om kobbernettet stenger</title>
+      <description>&lt;p&gt;Nasjonal kommunikasjonsmyndighet (Nkom) vil f&#xf8;lge opp at Telenor tilbyr telefoni til alle husstander slik selskapet er forpliktet til, n&#xe5;r kobbernettet fases ut.&lt;/p&gt;
+</description>
+      <link>http://xp-test.npta.no/admin/site/preview/default/draft/nkom/aktuelt/fortsatt-telefonidekning-selv-om-kobbernettet-stenger</link>
+      <pubDate>Sun, 01 Mar 2019 12:03:49 GMT</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">bd56d332-b9bd-4c49-9e55-bd5e9a312dde</guid>
+      <title>Nkom regulerer bel&#xf8;p fra 1. januar 2019 &#x2013; jf. &#xa7; 5 i forskrift om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet</title>
+      <description>&lt;p&gt;Med hjemmel i forskrift om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndiget (Nkom), regulerer Nkom med dette sektoravgifter med virkning fra 1. januar 2019. Oppdaterte bel&#xf8;p er tilgjengelig p&#xe5; Nkoms hjemmeside.&lt;/p&gt;
+</description>
+      <link>http://xp-test.npta.no/admin/site/preview/default/draft/nkom/aktuelt/nkom-regulerer-belop-fra-1.januar-2019--jf.-5-i-forskrift-om-sektoravgift-og-gebyr-til-nasjonal-kommunikasjonsmyndighet</link>
+      <pubDate>Sun, 01 Mar 2019 12:03:49 GMT</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">9ead9a85-2967-48e8-b8e3-eed50c9f1eb6</guid>
+      <title>Nkom ber ESA vurdere utkast til vedtak &#x2013; terminering av tale i fastnett</title>
+      <description>&lt;p&gt;Nkom har sendt utkast til vedtak vedr&#xf8;rende terminering av tale i fastnett til EFTAs overv&#xe5;kningsorgan (ESA). Nkom legger opp til at prisene for terminering i fastnett skal reduseres gradvis. I dag er prisen maks 0,6 &#xf8;re per minutt, og fra 1. juli 2019 skal prisen v&#xe6;re maks 0,5 &#xf8;re per minutt.&lt;/p&gt;
+</description>
+      <link>http://xp-test.npta.no/admin/site/preview/default/draft/nkom/aktuelt/nkom-ber-esa-vurdere-utkast-til-vedtak--terminering-av-tale-i-fastnett</link>
+      <pubDate>Sun, 01 Mar 2019 12:03:49 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
